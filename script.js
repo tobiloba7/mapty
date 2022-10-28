@@ -61,7 +61,6 @@ class Cycling extends Workout {
   }
 }
 
-/////////////////////////////////////////
 // APPLICATION ARCHITECTURE
 class App {
   // declaring private fields
